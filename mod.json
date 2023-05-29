@@ -1,5 +1,6 @@
 {
-  "displayName": "Deutsch Zusatz HH KT kurztext",
+  "displayName": "DeutschZkt",
+  "shortDescription": "Für den DW2-Deutsch-Mod der Zusatz (aufbauend darauf): Kurz-Texte für die sonst viel zu langen Bezeichnungen",
   "version": "0.1",
   "previewImage": "abkz.jpg",
   "bundles": [
